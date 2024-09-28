@@ -1,0 +1,4 @@
+Unzip file,
+Run the spudey executor.exe
+THIS IS ONLY THE BETA
+ANY PROBLEMS ADD ME ON DISCORD BLUEKIERONPC
